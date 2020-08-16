@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ACHIVGO</string>
+    <string name="hello">Hello</string>
+    <string name="pawe">Paweł</string>
+    <string name="search_elements">Search elements</string>
+    <string name="goals">Goals</string>
+    <string name="day_plan">Day Plan</string>
+    <string name="quotes">Quotes</string>
+    <string name="my_ideas">My Ideas</string>
+    <string name="hacker_articles">Hacker Articles</string>
+    <string name="my_achievements">My Achievements</string>
+</resources>

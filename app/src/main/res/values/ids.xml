@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="layoutGoal" type="id" />
+    <item name="layoutDayPlan" type="id" />
+    <item name="layoutPoem" type="id" />
+    <item name="layoutMyIdeas" type="id" />
+    <item name="layoutHackerArticles" type="id" />
+    <item name="layoutMyAchivements" type="id" />
+</resources>
