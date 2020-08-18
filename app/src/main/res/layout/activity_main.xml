@@ -359,6 +359,45 @@
                     android:textStyle="bold" />
                 "
             </LinearLayout>
+            
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="22dp"
+                android:background="@drawable/trending_background"
+                android:padding="20dp"
+                app:layout_constraintEnd_toEndOf="@id/layoutHackerArticles"
+                app:layout_constraintStart_toStartOf="@id/layoutGoal"
+                app:layout_constraintTop_toBottomOf="@id/layoutMyAchivements"
+            >
+
+                <TextView
+                    android:id="@+id/textTrening"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/white_rectangle_background"
+                    android:paddingStart="8dp"
+                    android:paddingTop="2dp"
+                    android:paddingEnd="8dp"
+                    android:paddingBottom="2dp"
+                    android:text="@string/top_quotes"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="16sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/ic_border"
+                    android:tint="@color/colorWhite"
+                    app:layout_constraintBottom_toBottomOf="@id/textTrening"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/textTrening" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
 
 
 
