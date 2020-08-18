@@ -6,4 +6,5 @@
     <item name="layoutMyIdeas" type="id" />
     <item name="layoutHackerArticles" type="id" />
     <item name="layoutMyAchivements" type="id" />
+    <item name="quoteLayout" type="id" />
 </resources>

@@ -10,4 +10,9 @@
     <string name="hacker_articles">Hacker Articles</string>
     <string name="my_achievements">My Achievements</string>
     <string name="top_quotes">TOP QUOTES</string>
+    <string name="if_today_were_the_last_day_of_your_life_would_you_want_to_do_what_you_are_about_to_do_today">“If today were the last day of your life, would you want to do what you are about to do today?”</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
 </resources>
